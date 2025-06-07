@@ -60,10 +60,14 @@ Add your payment information to activate payments on your account.
 In the Limits tab of the console, click on Choose a plan.
 Select the Experiment plan, which is free.
 You may be prompted to verify your phone number via SMS.
-Follow the on-screen instructions to complete the plan activation.
+Follow the on-screen instructions to complete the activation of the plan.
 
 🔑 Step 5: Generate an API Key
 In the console, go to the API Keys section.
 Click on Create new key.
 Provide a name for your API key and click Create Key.
 Copy and securely store your API key; it will be used to authenticate your API requests.
+
+
+NOTE:-
+Ignore the weather forecast controller. It comes by default when you use the ASP.NET Core Template 
